@@ -1,9 +1,4 @@
-def sechigh(x):
-    for  
-    
-
-
-    def find_maximum(numbers):
+def find_maximum(numbers):
     """Returns the maximum number from the list."""
     return max(numbers)
 
